@@ -296,27 +296,18 @@ margin-top:18px;
     width: 100%;
     margin:0;
     overflow:hidden;
-    background-color: #000;
    
 }
 .meal-photo img {
-    opacity: 0.7;
-  height:230px;
+    height:230px;
     width:100%;
-  -webkit-transform: scale(1.15);
-  transform: scale(1.15);
- -webkit-transition: opacity 0.2s, -webkit-transform 0.2s;
- transition: opacity 0.2s, -webkit-transform 0.2s;
- transition: transform 0.2s, opacity 0.2s;
- transition: transform 0.2s, opacity 0.2s, -webkit-transform 0.2s;
+  
 
     
    
 }
 .meal-photo img:hover{
-    opacity:1;
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
+  
 }
 
 
